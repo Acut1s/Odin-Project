@@ -1,3 +1,2 @@
-### Odin-Project
-
-## Hi
+### ODIN PROJECT
+## LETS GET IT
